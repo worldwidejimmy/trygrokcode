@@ -6,7 +6,9 @@ A React + Vite web application featuring advanced graphics and sound effects.
 
 - **Dropdown Menu**: Select from various "cool things" to experience.
 - **Fractal Graphics**: Interactive fractal trees that change based on mouse movement, seeded by cursor position. Includes random colors and branch variations.
-- **Relaxing Music**: Background sound generated using Web Audio API for a soothing experience.
+- **Particle System**: Click to create particle explosions with gravity and fading effects.
+- **Audio Visualizer**: Real-time spectrum analyzer for the background music, displaying frequency bars in vibrant colors.
+- **Relaxing Music**: Background sound generated using Web Audio API for a soothing experience (plays for Fractal Graphics and Audio Visualizer).
 
 ## Getting Started
 
